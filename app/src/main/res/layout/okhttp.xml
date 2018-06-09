@@ -25,6 +25,7 @@
         app:layout_constraintCircle="@id/syncget"
         app:layout_constraintCircleAngle="45"
         app:layout_constraintCircleRadius="100dp"/>
+    <!--
     <Button
         android:id="@+id/syncpost"
         android:layout_width="wrap_content"
@@ -41,6 +42,7 @@
         app:layout_constraintCircle="@id/syncget"
         app:layout_constraintCircleAngle="225"
         app:layout_constraintCircleRadius="100dp"/>
+    -->
     <Button
         android:id="@+id/interceptor"
         android:layout_width="wrap_content"
